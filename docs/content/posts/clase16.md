@@ -4,7 +4,7 @@ date: 2021-05-06
 lastmod: 2021-05-06
 author: Axel Donath
 avatar: https://indico.in2p3.fr/event/16864/images/3753-Donath_-_Copie.JPG
-cover: /school2021/img/telescope.png
+cover: https://github.com/astropy/astropy-logo/blob/main/generated/astropy_logo_notext.png
 images:
   - /school2021/img/telescope.png
 categories:
@@ -30,6 +30,25 @@ Please, if you don't need to, do not change the one that is now.
 <!---->
 
 # Astropy
+Astropy is a community developed Python package for astronomy.
 
+## Summary
+
+In this course we will learn the basic functionality of Astropy.
+
+## The Code
+
+## Slides
+
+### as PDF
+
+## Recorded Class
+
+### as a YouTube video
+
+## References and external
+- https://www.astropy.org
+- https://docs.astropy.org/en/stable/
+- https://learn.astropy.org
 
 ---
